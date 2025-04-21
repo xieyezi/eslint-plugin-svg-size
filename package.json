@@ -20,6 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.11",
     "@babel/eslint-parser": "^7.22.11",
+    "@xmldom/xmldom": "^0.9.8",
     "eslint": "^8.47.0",
     "eslint-config-nicenice": "^4.0.1",
     "eslint-config-prettier": "^9.0.0",
@@ -41,10 +42,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fostimus/eslint-plugin-svg-jsx.git"
+    "url": "git@github.com:xieyezi/eslint-plugin-svg-size.git"
   },
   "bugs": {
-    "url": "https://github.com/fostimus/eslint-plugin-svg-jsx/issues"
+    "url": "https://github.com/xieyezi/eslint-plugin-svg-size.git/issues"
   },
-  "homepage": "https://github.com/fostimus/eslint-plugin-svg-jsx"
+  "homepage": "https://github.com/xieyezi/eslint-plugin-svg-size"
 }
